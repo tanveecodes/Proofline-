@@ -1,0 +1,12 @@
+{
+  "name": "Phase 2 hand-labeled QA set",
+  "cases": [
+    {
+      "id": "case-001",
+      "question": "",
+      "referenceAnswer": "",
+      "expectedEvidence": "",
+      "expectedSource": ""
+    }
+  ]
+}

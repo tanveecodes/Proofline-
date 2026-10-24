@@ -1,0 +1,9 @@
+AI-04 demo policy
+
+Refunds: A customer may request a refund within 30 days of the delivery date. The request must include the order number. Refund requests received after the 30-day window are escalated for a manual review and are not guaranteed.
+
+Shipping: Standard shipping to Canada is available. Express options are listed at checkout and vary by destination. Shipping rates are calculated by weight and zone at the time of checkout. This document does not publish a fixed express shipping price.
+
+Coverage: The policy excludes accidental damage. Damage caused by accidents is not covered by the product protection plan.
+
+Billing: Annual subscriptions are billed once a year on the anniversary of the date the subscription started.
